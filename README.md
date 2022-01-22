@@ -60,7 +60,7 @@ Our aim is that by doing this project, the rider society will be able to identif
 Tree Structure
 
 <p align="center">
-    <img width="900" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/treestructure.PNG">
+    <img width="500" height="800" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/treestructure.PNG">
     <br>
     <em>Figure 2: Tree Structure of WBS</em>
 </p>
@@ -68,7 +68,7 @@ Tree Structure
 ### Responsibility Assignment Matrices (RAM)
 
 <p align="center">
-    <img width="272" height="548" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/ram.PNG">
+    <img width="420" height="548" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/ram.PNG">
     <br>
     <em>Figure B.3: Responsibility Assignment Matrices</em>
 </p>
