@@ -49,7 +49,55 @@ Our aim is that by doing this project, the rider society will be able to identif
 3.To implement BSTeRs on e-hailing for motorcycles.
 
 
-## 
+# PLANNING THE PROJECT
 
-![logobster](https://user-images.githubusercontent.com/55777393/150641260-d406434a-bb72-439e-9133-a004e965d11c.png)
+<p align="center">
+    <img width="1092" height="500" src="./image/WBS.png">
+    <br>
+    <em>Figure B.1: Work Breakdown Structure</em>
+</p>
+
+A tree structure has been made to see the phases in more detail. Each of the phases has its own children(tasks). 
+
+<p align="center">
+    <img width="1122" height="500" src="./image/Tree.png">
+    <br>
+    <em>Figure B.2: Tree Structure of WBS</em>
+</p>
+
+### Responsibility Assignment Matrices (RAM)
+
+<p align="center">
+    <img width="272" height="548" src="./image/RAM.png">
+    <br>
+    <em>Figure B.3: Responsibility Assignment Matrices</em>
+</p>
+
+### Team Responsibility
+
+Team Members | Role | Resposibilities
+--- | --- | --- 
+Badrul | Project Manager | Oveseer the whole project development. Will allocate the tasks to all the members.
+Luqman | Implementation Manager | Program the mobile-based app and the system modules.
+Harith | Project Scheduler | Plan the tasks and works that given to the members. 
+
+<p align="center">
+  <em>Table B.2: Team Responsibility</em>
+</p>
+
+## D. EXECUTING THE PROJECT
+### Design & Model
+
+<p align="center">
+  <img width="598" height="151" src="./image/model.png">
+  <br>
+  <em>Figure D.1: Overview of the Model</em>
+</p>
+
+### Coding
+
+### Project Result
+[![https://www.youtube.com/watch?v=yWrd-FL-Q_U&t=54s]
+
+
 
