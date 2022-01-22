@@ -52,23 +52,23 @@ Our aim is that by doing this project, the rider society will be able to identif
 # PLANNING THE PROJECT
 
 <p align="center">
-    <img width="1092" height="500" src="./image/WBS.png">
+    <img width="1200" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/wbs.PNG">
     <br>
-    <em>Figure B.1: Work Breakdown Structure</em>
+    <em>Figure 1: Work Breakdown Structure</em>
 </p>
 
-A tree structure has been made to see the phases in more detail. Each of the phases has its own children(tasks). 
+Tree Structure
 
 <p align="center">
-    <img width="1122" height="500" src="./image/Tree.png">
+    <img width="1122" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/treestructure.PNG">
     <br>
-    <em>Figure B.2: Tree Structure of WBS</em>
+    <em>Figure 2: Tree Structure of WBS</em>
 </p>
 
 ### Responsibility Assignment Matrices (RAM)
 
 <p align="center">
-    <img width="272" height="548" src="./image/RAM.png">
+    <img width="272" height="548" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/ram.PNG">
     <br>
     <em>Figure B.3: Responsibility Assignment Matrices</em>
 </p>
@@ -89,7 +89,7 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
 ### Design & Model
 
 <p align="center">
-  <img width="598" height="151" src="./image/model.png">
+  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit%20built.png">
   <br>
   <em>Figure D.1: Overview of the Model</em>
 </p>
@@ -97,7 +97,7 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
 ### Coding
 
 ### Project Result
-[![https://www.youtube.com/watch?v=yWrd-FL-Q_U&t=54s]
-
+[![https://www.youtube.com/watch?v=yWrd-FL-Q_U](https://raw.githubusercontent.com/Harith98/blind-spot-detection-tracker/main/image/videopicture.PNG
+)](https://www.youtube.com/watch?v=yWrd-FL-Q_U "https://www.youtube.com/watch?v=yWrd-FL-Q_U")
 
 
