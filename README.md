@@ -49,7 +49,7 @@ Our aim is that by doing this project, the rider society will be able to identif
 3.To implement BSTeRs on e-hailing for motorcycles.
 
 
-# PLANNING THE PROJECT
+#B. PLANNING THE PROJECT
 
 <p align="center">
     <img width="1200" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/wbs.PNG">
@@ -60,7 +60,7 @@ Our aim is that by doing this project, the rider society will be able to identif
 Tree Structure
 
 <p align="center">
-    <img width="1122" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/treestructure.PNG">
+    <img width="900" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/treestructure.PNG">
     <br>
     <em>Figure 2: Tree Structure of WBS</em>
 </p>
