@@ -68,7 +68,7 @@ Tree Structure
 ### Responsibility Assignment Matrices (RAM)
 
 <p align="center">
-    <img width="420" height="548" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/ram.PNG">
+    <img width="520" height="648" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/ram.PNG">
     <br>
     <em>Figure B.3: Responsibility Assignment Matrices</em>
 </p>
@@ -85,6 +85,23 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
   <em>Table B.2: Team Responsibility</em>
 </p>
 
+# C.IMPLEMENTATION
+
+## Costing
+<p align="center">
+  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/budget.png">
+  <br>
+  <em>Figure : Budget estimation</em>
+</p>
+
+## Time management
+
+<p align="center">
+  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/timemanagement.png">
+  <br>
+  <em>Figure : Budget estimation</em>
+</p>
+
 ## D. EXECUTING THE PROJECT
 ### Design & Model
 
@@ -92,6 +109,11 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
   <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit%20built.png">
   <br>
   <em>Figure : CIRCUIT PROTOTYPE</em>
+</p>
+<p align="center">
+  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit.png">
+  <br>
+  <em>Figure : CIRCUIT CONNECTION</em>
 </p>
 
 Module 1
@@ -104,26 +126,19 @@ The module one is to identify the vehicle in front of the rider’s vehicle base
 </p>
 
 <p align="center">
-  <img width="500" height="800" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/module%201.png">
+  <img width="602" height="339" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/googlecolab.png">
   <br>
   <em>Figure :IMPLEMENTATION GOOGLE COLAB</em>
 </p>
 
 
-Figure  : The architecture of the vehicle detection algorithm
-
-
-Figure  : Implementation of the algorithm to google collab
-Module 2
+Module 2 <br>
 The second module is to calculate the distance between the rider's motorcycle and the  vehicle in front. After it has got the value from the output of the algorithm, the LiDaR sensor will be used to calculate whether riders are in blind spot area or not. This module architecture can be seen in the figure 4.11 and 4.12.
 <p align="center">
   <img width="500" height="800" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/module%202.png">
   <br>
   <em>Figure : MODULE 2 PROCESS FLOW</em>
-</p>
-
-
-: Architecture of module 2
+</p><br>
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/arduino%20code.png">
@@ -137,10 +152,23 @@ Module 3 <br>
 In module 3, this can be considered the easiest module compared to those 2 modules. This module will notify riders if riders are in blind spots range using the Light Emitting Diode (LED). The led will be blinking as alert to riders in their corresponding location. If rider in the infront vehicle blindspot range, both led right and left will be blinking, otherwise it would be blinking based on the detection location as shown in figure 4.13
 
 
-#### Coding
-
 
 ### Project Result
+<p align="center">
+  <img width="478" height="233" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/right%20detection.png">
+  <br>
+  <em>Figure :RIGHT DETECTION</em>
+</p>
+<br>
+<p align="center">
+  <img width="478" height="233" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/left%20detection.png">
+  <br>
+  <em>Figure :LEFT DETECTION</em>
+</p>
+<br><br>
+
+### Project Demonstration
+
 [![https://www.youtube.com/watch?v=yWrd-FL-Q_U](https://raw.githubusercontent.com/Harith98/blind-spot-detection-tracker/main/image/videopicture.PNG
 )](https://www.youtube.com/watch?v=yWrd-FL-Q_U "https://www.youtube.com/watch?v=yWrd-FL-Q_U")
 
