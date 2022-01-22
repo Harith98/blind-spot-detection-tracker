@@ -51,6 +51,5 @@ Our aim is that by doing this project, the rider society will be able to identif
 
 ## 
 
-![logobster](https://user-images.githubusercontent.com/55777393/150641203-1f6fe0d3-fc0e-48b3-b8d7-409bb5bc8c0d.png)
-
+![logobster](https://user-images.githubusercontent.com/55777393/150641260-d406434a-bb72-439e-9133-a004e965d11c.png)
 
