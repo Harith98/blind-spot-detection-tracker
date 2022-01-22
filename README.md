@@ -49,7 +49,7 @@ Our aim is that by doing this project, the rider society will be able to identif
 3.To implement BSTeRs on e-hailing for motorcycles.
 
 
-#B. PLANNING THE PROJECT
+# B. PLANNING THE PROJECT
 
 <p align="center">
     <img width="1200" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/wbs.PNG">
@@ -91,10 +91,54 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
 <p align="center">
   <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit%20built.png">
   <br>
-  <em>Figure D.1: Overview of the Model</em>
+  <em>Figure : CIRCUIT PROTOTYPE</em>
 </p>
 
-### Coding
+Module 1
+The module one is to identify the vehicle in front of the rider’s vehicle based on the vehicle detection algorithm that was inspired from YOLOV3 object detection algorithm. The architecture of the algorithm can be seen at figure below and the implementation of the architecture can be seen at figure below also
+
+<p align="center">
+  <img width="500" height="800" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/module%201.png">
+  <br>
+  <em>Figure : MODULE 1 PROCESS FLOW</em>
+</p>
+
+<p align="center">
+  <img width="500" height="800" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/module%201.png">
+  <br>
+  <em>Figure :IMPLEMENTATION GOOGLE COLAB</em>
+</p>
+
+
+Figure  : The architecture of the vehicle detection algorithm
+
+
+Figure  : Implementation of the algorithm to google collab
+Module 2
+The second module is to calculate the distance between the rider's motorcycle and the  vehicle in front. After it has got the value from the output of the algorithm, the LiDaR sensor will be used to calculate whether riders are in blind spot area or not. This module architecture can be seen in the figure 4.11 and 4.12.
+<p align="center">
+  <img width="500" height="800" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/module%202.png">
+  <br>
+  <em>Figure : MODULE 2 PROCESS FLOW</em>
+</p>
+
+
+: Architecture of module 2
+
+<p align="center">
+  <img width="800" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/arduino%20code.png">
+  <br>
+  <em>Figure :ARDUINO CODE</em>
+</p>
+
+
+
+Module 3 <br>
+In module 3, this can be considered the easiest module compared to those 2 modules. This module will notify riders if riders are in blind spots range using the Light Emitting Diode (LED). The led will be blinking as alert to riders in their corresponding location. If rider in the infront vehicle blindspot range, both led right and left will be blinking, otherwise it would be blinking based on the detection location as shown in figure 4.13
+
+
+#### Coding
+
 
 ### Project Result
 [![https://www.youtube.com/watch?v=yWrd-FL-Q_U](https://raw.githubusercontent.com/Harith98/blind-spot-detection-tracker/main/image/videopicture.PNG
