@@ -89,7 +89,7 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
 
 ## Costing
 <p align="center">
-  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/budget.png">
+  <img width="800" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/budget.png">
   <br>
   <em>Figure : Budget estimation</em>
 </p>
@@ -97,7 +97,7 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
 ## Time management
 
 <p align="center">
-  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/timemanagement.png">
+  <img width="800" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/timemanagement.PNG">
   <br>
   <em>Figure : Budget estimation</em>
 </p>
