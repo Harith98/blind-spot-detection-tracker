@@ -77,12 +77,12 @@ Tree Structure
 
 Team Members | Role | Resposibilities
 --- | --- | --- 
-Badrul | Project Manager | Oveseer the whole project development. Will allocate the tasks to all the members.
-Luqman | Implementation Manager | Program the mobile-based app and the system modules.
-Harith | Project Scheduler | Plan the tasks and works that given to the members. 
+Badrul | Project Manager | Allocate the tasks to all the members.
+Luqman | Implementation Manager | Hardware installation and the system modules.
+Harith | System Analyst | Ensuring that the requirements of the project are captured and documented correctly. 
 
 <p align="center">
-  <em>Table B.2: Team Responsibility</em>
+  <em>  Team Responsibility</em>
 </p>
 
 # C.IMPLEMENTATION
@@ -99,7 +99,7 @@ Harith | Project Scheduler | Plan the tasks and works that given to the members.
 <p align="center">
   <img width="800" height="500" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/timemanagement.PNG">
   <br>
-  <em>Figure : Budget estimation</em>
+  <em>Figure :Time management</em>
 </p>
 
 ## D. EXECUTING THE PROJECT
