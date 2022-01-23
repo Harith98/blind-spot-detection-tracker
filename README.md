@@ -106,12 +106,12 @@ Harith | System Analyst | Ensuring that the requirements of the project are capt
 ### Design & Model
 
 <p align="center">
-  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit%20built.png">
+  <img width="598" height="251" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit%20built.png">
   <br>
   <em>Figure : CIRCUIT PROTOTYPE</em>
 </p>
 <p align="center">
-  <img width="598" height="151" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit.png">
+  <img width="598" height="251" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/image/circuit.png">
   <br>
   <em>Figure : CIRCUIT CONNECTION</em>
 </p>
